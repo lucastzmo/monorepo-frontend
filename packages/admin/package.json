@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo/admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
